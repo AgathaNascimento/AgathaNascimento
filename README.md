@@ -6,7 +6,7 @@
 
 ## Sobre mim 👩🏻
 Estou aprendendo programação, com foco em Python e SQL, utilizando o MySQL como banco de dados.
-- 📚 Estou no último período da faculdade de ADS.
+- 👩🏻‍🎓 Estou no último período da faculdade de ADS.
 - 💼 Estou em busca de oportunidades de trabalho na área de desenvolvimento de software e tecnologia.
 - ⚡ Fun fact: Swiftie🌟 & atualmete viciada em Stardew Valley🐔
 - 📫 Você pode me encontrar em:
@@ -16,18 +16,13 @@ Estou aprendendo programação, com foco em Python e SQL, utilizando o MySQL com
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=DF836E)](https://discord.com/channels/@agathanascimento/)
 <!--[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=9F966D)](https://www.instagram.com/SEUUSERNAME/) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AgathaNascimento">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AgathaNascimento&locale=pt-br&show_icons=true&hide=stars&count_private=true&title_color=d86450ff&icon_color=c17041ff&text_color=55522F&bg_color=f3e0d1ff&border_color=e4e2e2&card_width=400"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=AgathaNascimento&locale=pt_BR&border=55522F&stroke=DEC76D&ring=9F966D&fire=C17041&background=F3E0D1&currStreakNum=DF836E&currStreakLabel=D86450&sideLabels=D86450&sideNums=62232C&dates=2D2D23&hide_total_contributions=true"/>
 </a>
  
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://streak-stats.demolab.com?user=AgathaNascimento&locale=pt_BR&border=55522F&stroke=DEC76D&ring=9F966D&fire=C17041&background=F3E0D1&currStreakNum=DF836E&currStreakLabel=D86450&sideLabels=D86450&sideNums=62232C&dates=2D2D23&hide_total_contributions=true" />
-</a>
-
 ## Linguagens e Ferramentas
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaNascimento&count_private=true&layout=compact&locale=pt-br&title_color=d86450ff&icon_color=c17041ff&text_color=55522F&bg_color=f3e0d1ff&card_width=495?"/>
-</a>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaNascimento&count_private=true&layout=compact&locale=pt-br&title_color=d86450ff&icon_color=c17041ff&text_color=55522F&bg_color=f3e0d1ff&card_width=495?"/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=55522F)
 ![SQL](https://img.shields.io/badge/sql-954B3E?style=for-the-badge)
