@@ -1,4 +1,4 @@
-<img align="center" alt="Foto de Christopher Gower na Unsplas" src="https://github.com/AgathaNascimento/AgathaNascimento/assets/104841024/2c996f9f-981c-4b93-bdd0-eb584ac8c3c1">
+<img align="center" alt="Foto de Christopher Gower na Unsplas" src="https://github.com/AgathaNascimento/AgathaNascimento/assets/104841024/1fad6725-45aa-4eab-81d8-f41eb5a22cdb">
 
 # Oie! Eu sou a Agatha 👋
 
